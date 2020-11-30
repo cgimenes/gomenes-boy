@@ -1,7 +1,7 @@
 package memory
 
 import (
-	"neutronstar-gb/hardware/types"
+	"github.com/cgimenes/gomenes-boy/hardware/types"
 )
 
 type MMU struct {

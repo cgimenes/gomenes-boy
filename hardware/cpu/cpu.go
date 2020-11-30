@@ -2,9 +2,9 @@ package cpu
 
 import (
 	"log"
-	"neutronstar-gb/hardware/cpu/registers"
-	"neutronstar-gb/hardware/memory"
-	"neutronstar-gb/hardware/types"
+	"github.com/cgimenes/gomenes-boy/hardware/cpu/registers"
+	"github.com/cgimenes/gomenes-boy/hardware/memory"
+	"github.com/cgimenes/gomenes-boy/hardware/types"
 )
 
 type Instruction struct {

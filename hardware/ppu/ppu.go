@@ -1,7 +1,7 @@
 package ppu
 
 import (
-	"neutronstar-gb/hardware/types"
+	"github.com/cgimenes/gomenes-boy/hardware/types"
 )
 
 const defaultBGP types.Byte = 0x1B

@@ -2,7 +2,7 @@ package registers
 
 import (
 	"log"
-	"neutronstar-gb/hardware/types"
+	"github.com/cgimenes/gomenes-boy/hardware/types"
 )
 
 type WordRegister interface {

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"neutronstar-gb/hardware/cpu"
+	"github.com/cgimenes/gomenes-boy/hardware/cpu"
 )
 
 func main() {
